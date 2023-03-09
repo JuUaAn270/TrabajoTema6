@@ -1,6 +1,6 @@
-# ZAPATERIA FRONTEND (con Svelte)
+# ZAPATERÍA FRONTEND (con Svelte)
 
-> **Juan Ruiz Gonzalez**
+> **Juan Ruiz González**
 > 09/03/2023
 > Despliegue de Aplicaciones Web 
 < 2º D.A.W.
@@ -12,5 +12,7 @@
 - **HTML 5**
 - **CSS 3**
 - **Javascript (EcmaScript 6)**
+
+![image](Web.png)
 
 
