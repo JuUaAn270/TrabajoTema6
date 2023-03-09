@@ -4,7 +4,7 @@
   import Nav            from "./Nav.svelte";
   import Contenido      from "./Contenido.svelte";
   
-  const URL = {
+  const URL =  {
     zapatos :  "https://zapateriabackend.onrender.com/api/zapatos/",
     empleados :   "https://zapateriabackend.onrender.com/api/empleados/"
   };
